@@ -40,11 +40,11 @@ pip install -r requirements.txt
 You can run the code by executing the `plotagem.py` file: <br/>
 Windows Users:
 ```
-python main.py
+python plotagem.py
 ```
 Linux Users:
 ```
-python3 main.py
+python3 plotagem.py
 ```
 
 ## Algorithm
