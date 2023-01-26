@@ -66,9 +66,9 @@ The final results of the triangulation are plotted on a graph using matplotlib. 
 
 The results of this project demonstrate the effectiveness of the method for triangulating the location of an emitter. The algorithm was able to accurately calculate the location of the emitter using the data provided in two ways, demonstraiting that the problem lies in the data in one case, and in the model in the other.
 
-## Authors
+## Author
 
-- [Henrique Ribeiro Favaro] - Initial work
+- Henrique Ribeiro Favaro
 
 ## Acknowledgments
 
