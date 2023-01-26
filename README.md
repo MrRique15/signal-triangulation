@@ -4,7 +4,7 @@ This project aims to practice and create an algorithm to triangulate the locatio
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. It´s best to use virtual environments to run this project.
 
 ### Prerequisites
 This project requires the following dependencies:
@@ -13,9 +13,24 @@ This project requires the following dependencies:
 - Matplotlib
 - Numpy
 
+### Creating a virtual environment
+```
+python -m venv venv
+```
+
 ### Installing
 
-To install the dependencies, you can use pip:
+First, you need to activate the virtual environment:
+Windows Users:
+```
+venv\Scripts\activate
+```
+Linux Users:
+```
+source venv/bin/activate
+```
+
+Then, you need to install the dependencies:
 ```
 pip install -r requirements.txt
 ```
@@ -23,8 +38,13 @@ pip install -r requirements.txt
 ### Running the code
 
 You can run the code by executing the `plotagem.py` file:
+Windows Users:
 ```
 python main.py
+```
+Linux Users:
+```
+python3 main.py
 ```
 
 ## Algorithm
