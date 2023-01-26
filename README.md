@@ -20,7 +20,7 @@ python -m venv venv
 
 ### Installing
 
-First, you need to activate the virtual environment:
+First, you need to activate the virtual environment. <br/>
 Windows Users:
 ```
 venv\Scripts\activate
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ### Running the code
 
-You can run the code by executing the `plotagem.py` file:
+You can run the code by executing the `plotagem.py` file: <br/>
 Windows Users:
 ```
 python main.py
